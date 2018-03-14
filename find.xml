@@ -5,12 +5,12 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="di.xml" />
     <recentFileMasks>
       <mask>ph</mask>
       <mask>phtml</mask>
       <mask>*phtml</mask>
       <mask>.xml</mask>
-      <mask>di.xml</mask>
       <mask>*.pp</mask>
       <mask>*.pho</mask>
       <mask>*.pht</mask>
@@ -36,6 +36,7 @@
       <mask>*.x</mask>
       <mask>*.php</mask>
       <mask>*.xml</mask>
+      <mask>di.xml</mask>
     </recentFileMasks>
   </component>
 </application>
