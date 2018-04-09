@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
