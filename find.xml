@@ -3,38 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
-    <recentFileMasks>
-      <mask>ph</mask>
-      <mask>phtml</mask>
-      <mask>*phtml</mask>
-      <mask>.xml</mask>
-      <mask>*.pp</mask>
-      <mask>*.pho</mask>
-      <mask>*.pht</mask>
-      <mask>*</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
-      <mask>*.phtml</mask>
-      <mask>*.json</mask>
-      <mask>*.jso</mask>
-      <mask>*Setup.xml</mask>
-      <mask>*Setup.p</mask>
-      <mask>*Setup.php</mask>
-      <mask>*yml.php</mask>
-      <mask>*yml</mask>
-      <mask>*xml</mask>
-      <mask>*.js*.js</mask>
-      <mask>*.js*.j</mask>
-      <mask>*.js*.</mask>
-      <mask>*.js*</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.php</mask>
-      <mask>di.xml</mask>
-      <mask>*.xml</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.php" />
   </component>
 </application>
