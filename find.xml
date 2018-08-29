@@ -16,5 +16,6 @@
     <mask>*.php</mask>
     <mask>layout.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.xml.dist</mask>
   </component>
 </application>
