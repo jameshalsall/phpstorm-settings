@@ -1,6 +1,7 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="$USER_HOME$/Projects/graze/graze-magento2/vendor/magento/framework/Indexer/etc/indexer.xsd" location="$USER_HOME$/Projects/graze/graze-magento2/vendor/magento/framework/Indexer/etc/indexer.xsd" />
+    <resource url="urn:magento:framework:Communication/etc/communication.xsd" location="$USER_HOME$/Projects/toom/toom/vendor/magento/framework/Communication/etc/communication.xsd" />
     <resource url="urn:magento:framework:Event/etc/events.xsd" location="$USER_HOME$/Projects/graze/graze-magento2/vendor/magento/framework/Event/etc/events.xsd" />
     <resource url="urn:magento:framework:Indexer/etc/indexer.xsd" location="$USER_HOME$/Projects/graze/graze-magento2/vendor/magento/framework/Indexer/etc/indexer.xsd" />
     <resource url="urn:magento:framework:ObjectManager/etc/config.xsd" location="$USER_HOME$/Projects/toom/toom/vendor/magento/framework/ObjectManager/etc/config.xsd" />
