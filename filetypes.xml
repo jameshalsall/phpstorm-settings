@@ -4,6 +4,7 @@
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="TCP-1024" type="PLAIN_TEXT" />
       <mapping pattern="TCP-1023" type="PLAIN_TEXT" />
+      <mapping pattern="TCP-3478" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
