@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="TCP-3696" type="PLAIN_TEXT" />
       <mapping pattern="TCP-3496" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="TCP-3737" type="PLAIN_TEXT" />
       <mapping pattern="TCP-1024" type="PLAIN_TEXT" />
       <mapping pattern="TCP-1023" type="PLAIN_TEXT" />
-      <mapping pattern="TCP-3696" type="PLAIN_TEXT" />
       <mapping pattern="TCP-3489" type="PLAIN_TEXT" />
       <mapping pattern="TCP-3659" type="PLAIN_TEXT" />
       <mapping pattern="TCP-3492" type="PLAIN_TEXT" />
