@@ -10,6 +10,7 @@
       <mapping pattern="Dangerfile-backup" type="PLAIN_TEXT" />
       <mapping pattern="TCP-3489" type="PLAIN_TEXT" />
       <mapping pattern="TCP-3737" type="PLAIN_TEXT" />
+      <mapping pattern="StockChangelogContext" type="PLAIN_TEXT" />
       <mapping pattern="TCP-3478" type="PLAIN_TEXT" />
       <mapping pattern="TCP-1024" type="PLAIN_TEXT" />
       <mapping pattern="TCP-1023" type="PLAIN_TEXT" />
