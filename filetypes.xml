@@ -1,13 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="TCP-3696" type="PLAIN_TEXT" />
+      <mapping pattern="TCP-3697" type="PLAIN_TEXT" />
       <mapping pattern="TCP-3496" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="TCP-3737" type="PLAIN_TEXT" />
       <mapping pattern="TCP-1023" type="PLAIN_TEXT" />
       <mapping pattern="phpstan" type="PLAIN_TEXT" />
-      <mapping pattern="TCP-3697" type="PLAIN_TEXT" />
+      <mapping pattern="TCP-3696" type="PLAIN_TEXT" />
+      <mapping pattern="TCP-4139" type="PLAIN_TEXT" />
       <mapping pattern="TCP-3690" type="PLAIN_TEXT" />
       <mapping pattern="TCP-3839" type="PLAIN_TEXT" />
       <mapping pattern="TCP-3489" type="PLAIN_TEXT" />
