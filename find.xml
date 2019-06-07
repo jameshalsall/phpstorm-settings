@@ -15,5 +15,6 @@
     <mask>*.php</mask>
     <mask>*.xml</mask>
     <mask>db_schema.xml</mask>
+    <mask>!</mask>
   </component>
 </application>
