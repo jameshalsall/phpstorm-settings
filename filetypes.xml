@@ -1,20 +1,21 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
-      <mapping pattern="TCP-3697" type="PLAIN_TEXT" />
+      <mapping pattern="TCP-3696" type="PLAIN_TEXT" />
       <mapping pattern="TCP-3496" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="TCP-4731" type="PLAIN_TEXT" />
       <mapping pattern="TCP-3737" type="PLAIN_TEXT" />
       <mapping pattern="TCP-1023" type="PLAIN_TEXT" />
       <mapping pattern="phpstan" type="PLAIN_TEXT" />
-      <mapping pattern="TCP-3696" type="PLAIN_TEXT" />
+      <mapping pattern="TCP-3697" type="PLAIN_TEXT" />
       <mapping pattern="TCP-4139" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-cron" type="PLAIN_TEXT" />
       <mapping pattern="TCP-3690" type="PLAIN_TEXT" />
       <mapping pattern="TCP-3839" type="PLAIN_TEXT" />
       <mapping pattern="TCP-3489" type="PLAIN_TEXT" />
       <mapping pattern="Dangerfile-backup" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="TCP-3904" type="PLAIN_TEXT" />
       <mapping pattern="TCP-3659" type="PLAIN_TEXT" />
       <mapping pattern="StockChangelogContext" type="PLAIN_TEXT" />
