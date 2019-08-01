@@ -18,7 +18,7 @@
     <mask>!</mask>
     <mask>*.jsx</mask>
     <mask>*.js</mask>
-    <mask>*.xml</mask>
     <mask>*.yml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
