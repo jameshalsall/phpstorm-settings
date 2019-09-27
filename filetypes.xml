@@ -3,13 +3,14 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
-      <mapping pattern=".env.development" type="PLAIN_TEXT" />
-      <mapping pattern="auth-buttons" type="PLAIN_TEXT" />
       <mapping pattern="app" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern=".license" type="PLAIN_TEXT" />
+      <mapping pattern="auth-buttons" type="PLAIN_TEXT" />
       <mapping pattern=".unison.Svg.scss.bffa0c6c2ff43a6144385dbe2036735e.unison.tmp" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern=".key" type="PLAIN_TEXT" />
+      <mapping pattern=".license" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
