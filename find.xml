@@ -19,7 +19,7 @@
     <mask>*.jsx</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
-    <mask>*.yml</mask>
     <mask>*.yaml</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
