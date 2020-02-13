@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="app" type="PLAIN_TEXT" />
+      <mapping pattern=".editconfig" type="PLAIN_TEXT" />
       <mapping pattern=".unison.Svg.scss.bffa0c6c2ff43a6144385dbe2036735e.unison.tmp" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
