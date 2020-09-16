@@ -18,9 +18,9 @@
     <mask>*.yaml</mask>
     <mask>crontab.xml</mask>
     <mask>*.js</mask>
-    <mask>*.php</mask>
     <mask>*.sh</mask>
     <mask>*.yml</mask>
     <mask>*.transfer.xml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
