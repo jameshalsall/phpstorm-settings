@@ -22,5 +22,6 @@
     <mask>*.yml</mask>
     <mask>*.transfer.xml</mask>
     <mask>*.php</mask>
+    <mask>CreatePaymentMethodSepa</mask>
   </component>
 </application>
