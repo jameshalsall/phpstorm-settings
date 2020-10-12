@@ -23,5 +23,6 @@
     <mask>*.transfer.xml</mask>
     <mask>*.php</mask>
     <mask>CreatePaymentMethodSepa</mask>
+    <mask>*DependencyProvider.php</mask>
   </component>
 </application>
