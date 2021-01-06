@@ -9,6 +9,7 @@
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".key" type="PLAIN_TEXT" />
       <mapping pattern="app" type="PLAIN_TEXT" />
+      <mapping pattern="PURE-1431" type="PLAIN_TEXT" />
       <mapping pattern="auth-buttons" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
