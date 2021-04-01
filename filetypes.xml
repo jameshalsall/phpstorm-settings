@@ -8,6 +8,7 @@
       <mapping pattern="access_token" type="PLAIN_TEXT" />
       <mapping pattern=".license" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern="last_id" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".key" type="PLAIN_TEXT" />
