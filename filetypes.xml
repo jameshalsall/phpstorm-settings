@@ -4,6 +4,7 @@
       <mapping pattern="expected package" type="AUTO_DETECTED" />
       <mapping pattern="PURE-1470" type="AUTO_DETECTED" />
       <mapping pattern="PB-77" type="AUTO_DETECTED" />
+      <mapping pattern="PLUS-1384" type="AUTO_DETECTED" />
       <mapping pattern=".editconfig" type="PLAIN_TEXT" />
       <mapping pattern="access_token" type="PLAIN_TEXT" />
       <mapping pattern=".license" type="PLAIN_TEXT" />
